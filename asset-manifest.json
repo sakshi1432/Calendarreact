@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/sakshi1432/Calendarreact.git/static/css/main.e90c5e2c.css",
-    "main.js": "/sakshi1432/Calendarreact.git/static/js/main.18f3ef3b.js",
-    "static/js/787.27fb6eb7.chunk.js": "/sakshi1432/Calendarreact.git/static/js/787.27fb6eb7.chunk.js",
-    "index.html": "/sakshi1432/Calendarreact.git/index.html",
-    "main.e90c5e2c.css.map": "/sakshi1432/Calendarreact.git/static/css/main.e90c5e2c.css.map",
-    "main.18f3ef3b.js.map": "/sakshi1432/Calendarreact.git/static/js/main.18f3ef3b.js.map",
-    "787.27fb6eb7.chunk.js.map": "/sakshi1432/Calendarreact.git/static/js/787.27fb6eb7.chunk.js.map"
+    "main.css": "/react-gh-pages/static/css/main.e90c5e2c.css",
+    "main.js": "/react-gh-pages/static/js/main.59a22d22.js",
+    "static/js/787.27fb6eb7.chunk.js": "/react-gh-pages/static/js/787.27fb6eb7.chunk.js",
+    "index.html": "/react-gh-pages/index.html",
+    "main.e90c5e2c.css.map": "/react-gh-pages/static/css/main.e90c5e2c.css.map",
+    "main.59a22d22.js.map": "/react-gh-pages/static/js/main.59a22d22.js.map",
+    "787.27fb6eb7.chunk.js.map": "/react-gh-pages/static/js/787.27fb6eb7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e90c5e2c.css",
-    "static/js/main.18f3ef3b.js"
+    "static/js/main.59a22d22.js"
   ]
 }
